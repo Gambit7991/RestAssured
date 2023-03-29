@@ -1,2 +1,2 @@
 # RestAssured
-This is a rest assured architecture
+This is a rest assured architecture sample
